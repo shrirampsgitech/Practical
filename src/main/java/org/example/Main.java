@@ -16,5 +16,6 @@ public class Main {
         else{
             System.out.printf("Largest Number: %d",c);
         }
+        sc.close();
     }
 }
